@@ -2,7 +2,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> 各大 AI 厂商 Coding Plan 实际价值对比。
+> 国内各大模型/云厂商 Coding Plan 实际价值对比。
 > *注：本文暂不讨论模型的具体性能，只建议使用各家的旗舰模型。*
 
 ## 📖 术语说明
