@@ -2,7 +2,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> 国内各大模型/云厂商 Coding Plan 实际价值对比
+> 各大模型/云厂商 Coding Plan 实际价值对比
 
 > *注：本文不会讨论模型的具体性能，只建议使用各家的旗舰模型，且如果对数据有敏感性要求，不允许数据被用于训练，不建议购买 Coding Plan*
 
@@ -63,7 +63,7 @@
 
 *注：🏞️表示属于多模态模型，同时支持文本和图像输入，⚠️表示中文 Tokenizer 压缩率较低*
 
-## AI IDE
+## AI IDE/Agent Plan
 
 | 厂商                             | 价格(mo)      | 官方说明   | 备注 | 额度价值(mo)/Tokens     | 额度倍率(mo)  |
 |--------------------------------|--------------|------|---------|-----------|---------|
