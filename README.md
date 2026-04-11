@@ -31,7 +31,6 @@
 |--------------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|---------|-----------|---------|--------|-----------|--------|--------|-------------|---------|
 | Claude Pro (Claude Code claude-sonnet-4.6)       |  $20.00   |   <mark>测试期间有 2x 额度活动，3月28日活动已截止</mark> | /    | 706/2200万     |  $13.69   | 0.68    | 5650/1.8亿   |  $109.50  | 5.48   | 22600/7.2亿  |  $438       | 21.90   |
 | ChatGPT Plus (Codex gpt-5.4)           |  $20.00   | 45-225 Local Messages* / 5h | /    | 490/2000万    |  $11.85   | 0.59    | 3062/1.2亿   |  $74   | 3.7   | 12250/4.8亿  |  $296       | 14.8   |
-| OpenCode Go |   $10.00  |  |      |        |      $12.00     |     |        |     $30.00      |      |      |      $60.00       |  6.00   |
 | MiniMax Coding Plan Plus （minimax-m2.7）      |  ￥49.00   | 1500次模型调用 / 5 小时 | 52.6 | 1360/6000万    |  ￥108.60  | 2.22    | 13600/6亿      | ￥1086         | 22.2     | 54400/24亿   |  ￥4344 |   88.65|
 | Kimi Code Andante （kimi-k2.5）             |  ￥49.00   | Kimi Code 可调用| 40.6 | 359/1500万     |  ￥21.46   | 0.44    | 639/2100万    |  ￥30.34   | 0.62   | 2556/8400万   |  ￥121.36    | 2.48    |
 | Kimi Code Allegretto（kimi-k2.5）           |  ￥199.00  | Kimi Code 20 倍额度  |  40.6    |  1307/6500万       |    ￥89.67       |    0.45     | 9073/3.57亿   |  ￥492.00  | 2.47   | 36292/14.28亿  |  ￥1,968.00  | 9.89    |
@@ -72,7 +71,8 @@
 | Windsurf Pro |   $20.00  |   plan includes a usage allowance measured as a daily and weekly budget, daily quota is more than 1/7 of your weekly quota<br/>8-101 messages / day for Premium Model<br/>unlimited SWE-1.5      |   Quota-based     |           |     |         
 | Augment Code INDIE |   $20.00  |   Includes 40,000 credits    |     Usage-based          |  $25.00   |   1.25     |         
 | Kiro Pro |   $20.00  |   1,000 credits<br/>Pay-per-use overage ($0.04/credit)    |    Task-based    |     $40.00      |   2  |                         
-| Antigravity Google AI Pro |   $19.99  |   High, generous quota, refreshed every five hours until weekly limit reached<br/>Higher weekly rate limit    |   Quota-based     |           |     |            
+| Antigravity Google AI Pro |   $19.99  |   High, generous quota, refreshed every five hours until weekly limit reached<br/>Higher weekly rate limit    |   Quota-based     |           |     |   
+| OpenCode Go |   $10.00  | $12.00/5h<br/>$30.00/w<br/>$60/mo | Quota-based | $60.00 | 6 |
 | GitHub Copilot Pro |   $10.00  |   300 premium requests to use latest models, with the option to buy more<br/>Unlimited agent mode and chats with GPT-5 mini2<br/>Unlimited inline suggestions    |    1x 模型每条消息 $0.04，$12 内免费，Message-based    |   >>$12   |    >>1.2    |          
 | Zed Pro |   $10.00  |    Unlimited edit predictions<br/>$5 of tokens included<br/>Usage-based billing beyond $5    |   Usage-based     |     $5.00/440万 Claude Sonnet 4.6      |   0.5  | 
 | Trae Pro |   $10.00  |   $20 Basic usage + Bonus usage<br/>Unlimited Autocomplete     |     Usage-based       |   $20.00  |    2    |           
